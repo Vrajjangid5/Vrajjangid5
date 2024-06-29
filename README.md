@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://twitter.com/vrajjangid5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrajjangid5" height="30" width="40" /></a>
 <a href="https://instagram.com/vrajjangid5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrajjangid5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/silentcoder5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silentcoder5" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vrajjangid5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vrajjangid5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vrajjangid5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vrajjangid5" height="30" width="40" /></a>
+<a href="https://youtube.com/@silentcoder5?si=mwL0uVwUiHrbspi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silentcoder5" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/virendra5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vrajjangid5" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/virendra5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vrajjangid5" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vrajjaqmti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vrajjaqmti" height="30" width="40" /></a>
 </p>
 
